@@ -5,7 +5,7 @@ solved 26-27.December.2023
 
 my review: I really liked bandit because for the most part it was very easy; you can finish it quickly and say "I finished OverTheWire's bandit" but I also learned a thing or two along the way. 10/10 would recommend 
 
-#0
+# 0
 ssh -p 2220 bandit0@bandit.labs.overthewire.org (this is the command we'll run every time only with a different username)
 Note - I got several warnings about the server so I removed the it's entry in .ssh/known_hosts and re-added it in the CMD, something must have changed about it
 
