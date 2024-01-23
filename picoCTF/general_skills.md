@@ -1,5 +1,7 @@
 # intro
-my opinion here
+quite easy, 10/10 would recommend.
+cover the basics of a variety of subjects, it's a good entry point for CTFs but it required inital knowledge to beign with.
+If you're starting with this and stuck, Googleing the answers and documenting them well so you can remember can be a very good way to learn so don't be ashamed to Google.
 
 # Obedient Cat
 download file and open
