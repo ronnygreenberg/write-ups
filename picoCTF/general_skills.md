@@ -422,7 +422,7 @@ dude in answer says you can overwrite account_balance with a large enough value 
 
 <!--picoCTF{m0n3y_bag5_68d16363}-->
 
-tags: C programming language, logical vulnerability, PWN, overflow
+tags: C programming language, logical vulnerability, PWN, overflow, whitebox
 
 # Big Zip
 download zip
