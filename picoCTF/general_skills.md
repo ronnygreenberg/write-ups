@@ -579,7 +579,7 @@ Tags: python
 # convertme.py
 two ways to solve:
 
-you have the code to deencrypt the flag right there, just put print(str_xor(flag_enc, 'enkidu')) near the top of the code, regardless of your input 
+you have the code to decrypt the flag right there, just put print(str_xor(flag_enc, 'enkidu')) near the top of the code, regardless of your input 
 
 be a good boy:
 
